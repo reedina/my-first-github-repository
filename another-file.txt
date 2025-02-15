@@ -1,3 +1,5 @@
-this is another file in feature-1 branch
+this line was replaced in feature-2 branch
 
 this is a new line added - Feb 14th at 3:54pm
+
+this line was addedin feature-2 branch
